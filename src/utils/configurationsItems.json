@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Configurations",
+    "icon": "la la-cog",
+    "childrens": [
+      {
+        "title": "Staff Expense Types",
+        "path": "/payroll/config/expenseType"
+      },
+      {
+        "title": "Payroll Account Type",
+        "path": "/payroll/config/payrollAccountType"
+      },
+      {
+        "title": "Penalty Reason",
+        "path": "/payroll/config/penaltyReason"
+      },
+      {
+        "title": "Staff On-boarding",
+        "path": "/payroll/config/enrollment"
+      }
+    ]
+  }
+]

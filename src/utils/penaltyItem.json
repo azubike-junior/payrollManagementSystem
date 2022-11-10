@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Penalty",
+    "icon": "la la-cog",
+    "childrens": [
+      {
+        "title": "Deduction Type",
+        "path": "/payroll/penalty/deduction"
+      },
+      {
+        "title": "Resume Salary",
+        "path": "/payroll/penalty/activePausedStaffs"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Run Test Payroll",
+    "icon": "la la-comment",
+    "path": "/payroll/runTest"
+  },
+
+  {
+    "title": "Process Payroll",
+    "icon": "la la-comment",
+    "path": "/payroll/processPayroll"
+  },
+
+  {
+    "title": "Pending Process",
+    "icon": "la la-comment",
+    "path": "/payroll/pendingProcess"
+  },
+
+  {
+    "title": "View Slip",
+    "icon": "la la-comment",
+    "path": "/payroll/slip"
+  }
+]
